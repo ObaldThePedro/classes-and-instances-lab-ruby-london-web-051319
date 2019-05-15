@@ -1,6 +1,6 @@
 class Dog
   def print_name(name)
-    puts "Woof woof,my name is "#{name}
+    puts "Woof woof,my name is #{name}"
   end
 end
 
