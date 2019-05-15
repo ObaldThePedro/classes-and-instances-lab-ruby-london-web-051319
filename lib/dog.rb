@@ -3,3 +3,5 @@ class Dog
     "Woof woof,my name is "#{name}
   end
 end
+
+gibson = Dog.new
