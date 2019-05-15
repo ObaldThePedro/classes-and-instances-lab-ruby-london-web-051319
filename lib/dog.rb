@@ -4,5 +4,17 @@ class Dog
   end
 end
 
-gibson = Dog.new
-gibson.print_name("Gibson")
+class Person
+end
+
+
+adele_goldberg = Person.new
+alan_kay = Person.new
+
+fido = Dog.new
+fido.print_name("fido")
+
+snoopy = Dog.new
+lassie = Dog.new
+
+
